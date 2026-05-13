@@ -25,13 +25,13 @@ A secure and scalable RESTful API built using **Node.js**, **Express.js**, and *
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 The Contact Manager API is a backend application that allows authenticated users to manage their personal contacts securely. The project follows the MVC architecture and includes authentication, middleware handling, CRUD operations, and MongoDB database integration.
 
 ---
 
-# ✨ Features
+# Features
 
 - User Registration & Login
 - JWT Authentication & Authorization
@@ -45,7 +45,7 @@ The Contact Manager API is a backend application that allows authenticated users
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -60,7 +60,7 @@ The Contact Manager API is a backend application that allows authenticated users
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 contact-manager-api/
@@ -96,19 +96,19 @@ contact-manager-api/
 
 # ⚙️ Installation
 
-## 1️⃣ Clone the Repository
+## 1 Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/contact-manager-api.git
 ```
 
-## 2️⃣ Navigate to Project Directory
+## 2 Navigate to Project Directory
 
 ```bash
 cd contact-manager-api
 ```
 
-## 3️⃣ Install Dependencies
+## 3 Install Dependencies
 
 ```bash
 npm install
@@ -116,7 +116,7 @@ npm install
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
 Create a `.env` file in the root directory and add the following:
 
@@ -128,7 +128,7 @@ ACCESS_TOKEN_SECRET=your_secret_key
 
 ---
 
-# ▶️ Running the Project
+# Running the Project
 
 ## Development Mode
 
@@ -144,7 +144,7 @@ npm start
 
 ---
 
-# 📡 API Endpoints
+# API Endpoints
 
 ## 👤 User Routes
 
@@ -156,7 +156,7 @@ npm start
 
 ---
 
-## 📇 Contact Routes
+## Contact Routes
 
 | Method | Endpoint | Description |
 |--------|-----------|-------------|
@@ -168,7 +168,7 @@ npm start
 
 ---
 
-# 🔐 Authentication
+# Authentication
 
 Protected routes require a JWT token in the request header.
 
@@ -180,7 +180,7 @@ Authorization: Bearer your_jwt_token
 
 ---
 
-# 📦 Sample Request Bodies
+# Sample Request Bodies
 
 ## Register User
 
@@ -213,7 +213,7 @@ Authorization: Bearer your_jwt_token
 
 ---
 
-# 🧪 Testing
+# Testing
 
 You can test the API endpoints using:
 
@@ -223,7 +223,7 @@ You can test the API endpoints using:
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 This project helps in understanding:
 
@@ -238,7 +238,7 @@ This project helps in understanding:
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Role-Based Authentication
 - Pagination & Search
@@ -249,7 +249,7 @@ This project helps in understanding:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 
@@ -278,13 +278,13 @@ git push origin feature-name
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ### Parthiv Reddy
 
